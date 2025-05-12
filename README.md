@@ -1,4 +1,3 @@
-# NextJS & NestJS GraphQL Starter
 A NextJS frontend and NestJS backend GraphQL starter pack that includes GitHub & Reddit authentication.
 
 ## Is something missing?
